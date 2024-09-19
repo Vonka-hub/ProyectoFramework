@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TaskTarcker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|c:\\users\\user\\source\\repos\\tasktarcker\\tasktarcker\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|solutionrelative:tasktarcker\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|c:\\users\\user\\source\\repos\\tasktarcker\\tasktarcker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|solutionrelative:tasktarcker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|c:\\users\\user\\source\\repos\\tasktarcker\\tasktarcker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|solutionrelative:tasktarcker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|c:\\users\\user\\source\\repos\\tasktarcker\\tasktarcker\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|solutionrelative:tasktarcker\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|c:\\users\\user\\source\\repos\\tasktarcker\\tasktarcker\\wwwroot\\js\\taskajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|solutionrelative:tasktarcker\\wwwroot\\js\\taskajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|c:\\users\\user\\source\\repos\\tasktarcker\\tasktarcker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944F7BE-C75D-4B01-AF58-CBB24E6E1CE7}|TaskTarcker\\TaskTarcker.csproj|solutionrelative:tasktarcker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTarcker\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Program.cs",
+              "RelativeToolTip": "TaskTarcker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:13:08.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskTarcker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TaskTarcker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T00:33:06.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskTarcker\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Models\\Task.cs",
+              "RelativeToolTip": "TaskTarcker\\Models\\Task.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:11:50.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskTarcker\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskTarcker\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:18:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskTarcker\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskTarcker\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:23:11.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "taskAjax.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\wwwroot\\js\\taskAjax.js",
+              "RelativeDocumentMoniker": "TaskTarcker\\wwwroot\\js\\taskAjax.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskTarcker\\TaskTarcker\\wwwroot\\js\\taskAjax.js",
+              "RelativeToolTip": "TaskTarcker\\wwwroot\\js\\taskAjax.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-17T00:44:15.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
